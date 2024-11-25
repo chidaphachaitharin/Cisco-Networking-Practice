@@ -13,5 +13,5 @@ In these configurations, I have set the following passwords on Cisco devices for
 
 ### Enable Password:
 Router> enable
-- **Password: `class`
+- **Password**: `class`
 
