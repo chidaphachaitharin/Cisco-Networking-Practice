@@ -11,6 +11,7 @@ In these configurations, I have set the following passwords on Cisco devices for
 ### Console Password:
 - **Console password**: `cisco123`
 
+### Enable Password:
 Router> enable
-Password: `class`
+- **Password: `class`
 
